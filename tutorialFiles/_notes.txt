@@ -1,5 +1,5 @@
 ---> to get this project from git then run next commands:
-git clone https://github.com/lotosotol/AngularForBeginners.git
+git clone https://github.com/lotosotol/GettingStartedWithAngular
 AngularForBeginners - this is the folder name where to clone
 
 git init
