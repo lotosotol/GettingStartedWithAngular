@@ -1,3 +1,6 @@
+NOTE: Project in development here (no local files yet):
+https://stackblitz.com/edit/gettingstartedwithangular-stackblitz
+
 ---> to get this project from git then run next commands:
 git clone https://github.com/lotosotol/GettingStartedWithAngular
 GettingStartedWithAngular - this is the folder name where to clone
